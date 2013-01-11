@@ -15,7 +15,7 @@ trc advantages:
 * decentralized: doesn't even have cumbersome network capacities
 * lightweight: easy to install, doesn't rely on 42 obscure libraries, or perl
 * standard: you can use it even if you don't have it
-* collaborative: just used with netcat, scp, rsync, mail, ftp...
+* collaborative: just use it with netcat, scp, rsync, mail, ftp...
 * clear: revision is just a date, not an obscure hash or number
 * naturally compress: your code is naturally compressed by trc, less disk space wasted
 * pragmatic: who has time to set up a git repository?
