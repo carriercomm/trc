@@ -1,4 +1,4 @@
-trc: tar revision control
+TRC: tar revision control
 ===
 
 ## License ##
