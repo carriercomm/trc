@@ -5,7 +5,11 @@ tar revision control
 
 -------------------------------
 
-### TRC ###
+## License ##
+
+trc is released under the MIT Public License
+
+## TRC ##
 
 TRC is the ultimate revision control system
 
@@ -18,3 +22,4 @@ trc advantages:
 * collaborative: just used with netcat, scp, rsync, mail, ftp...
 * clear: revision is just a date, not an obscure hash or number
 * naturaly compress: your code is naturaly compressed by trc, less disk space wasted
+* pragamatic: who has time to set up a git repository?
