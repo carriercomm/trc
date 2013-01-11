@@ -1,0 +1,4 @@
+#!/bin/sh
+#this script is released under the MIT Public License
+
+tar -zcvf `basename $1`-`date +"%F-%H%M%S"`.tgz $1
