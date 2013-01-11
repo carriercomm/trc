@@ -1,9 +1,5 @@
-trc
+trc: tar revision control
 ===
-
-tar revision control
-
--------------------------------
 
 ## License ##
 
@@ -23,3 +19,11 @@ trc advantages:
 * clear: revision is just a date, not an obscure hash or number
 * naturaly compress: your code is naturaly compressed by trc, less disk space wasted
 * pragamatic: who has time to set up a git repository?
+
+## How to use it? ##
+
+It's really simple:
+
+```
+me@my-host # trc <project directory> 
+```
