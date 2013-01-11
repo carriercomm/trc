@@ -20,6 +20,13 @@ trc advantages:
 * naturally compress: your code is naturally compressed by trc, less disk space wasted
 * pragmatic: who has time to set up a git repository?
 
+## How to install ##
+
+```
+root@my-host # wget https://raw.github.com/kakwa/trc/master/trc -o /usr/local/bin/trc
+root@my-host # chmod 755 /usr/local/bin/trc
+```
+
 ## How to use it? ##
 
 It's really simple:
@@ -27,3 +34,4 @@ It's really simple:
 ```
 me@my-host # trc <project directory> 
 ```
+
