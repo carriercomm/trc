@@ -35,3 +35,7 @@ It's really simple:
 me@my-host # trc <project directory> 
 ```
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kakwa/trc/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
