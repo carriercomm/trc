@@ -1,4 +1,4 @@
 #!/bin/sh
 #this script is released under the MIT Public License
 [ $# -ge 1 ] && [ -e "$1" ] || exit 1
-tar -zcvf `basename $1`-`date +"%F-%H%M%S"`.tgz $1
+tar -zcvf "`basename $1`-`date +"%F-%H%M%S"`.tgz" "$1"
