@@ -23,7 +23,7 @@ trc advantages:
 ## How to install ##
 
 ```
-wget https://raw.githubusercontent.com/kakwa/trc/master/trc -o /usr/local/bin/trc
+wget https://raw.githubusercontent.com/kakwa/trc/master/trc -O /usr/local/bin/trc
 chmod 755 /usr/local/bin/trc
 echo "TRC installed"
 ```
